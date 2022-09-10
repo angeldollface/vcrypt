@@ -11,7 +11,7 @@ Licensed under the MIT license.
  to the source code.
  -->
  <div class="footer">
-  <p class="footer">VCrypt on <a href="https://github.com/iamtheblackunicorn/vcrypt">GitHub</a>.</p>
+  <p class="footer">VCrypt on <a href="https://github.com/angeldollface/vcrypt">GitHub</a>.</p>
  </div>
 
 </template>
