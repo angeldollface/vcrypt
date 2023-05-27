@@ -24,18 +24,6 @@ export default {
 </script>
 
 <style lang="scss">
-@font-face {
-  font-family: 'Cyberpunk';
-  src: url('https://angeldollface.art/assets/fonts/Cyberpunk.ttf') format('truetype');
-}
-@font-face {
-  font-family: 'Mono';
-  src: url('https://angeldollface.art/assets/fonts/Mono.ttf') format('truetype');
-}
-@font-face {
-  font-family: 'PSB';
-  src: url('https://angeldollface.art/assets/fonts/PSB.ttf') format('truetype');
-}
 $hoverColor: #FF7BAC;
 $headingFont: 'Cyberpunk';
 $contentFont: 'Mono';
