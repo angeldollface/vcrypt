@@ -26,7 +26,7 @@ export default {
 <style lang="scss">
 $hoverColor: #FF7BAC;
 $headingFont: 'Cyberpunk';
-$contentFont: 'Mono';
+$contentFont: 'FiraCode-Regular';
 $buttonFont: 'PSB';
 $accentColor: #000000;
 $mainColor: #EA1573;
