@@ -14,7 +14,7 @@ A while ago, I wrote a small library for Node.js that allows users to convert ba
 
 ## DEPLOYED PROJECT ON GITHUB PAGES :rocket:
 
-To view a live deployed version of this project, click here: [VIEW](https://angeldollface.art/vcrypt)
+To view a live deployed version of this project, click here: [VIEW](https://angeldollface.boo/vcrypt)
 
 ## SET IT UP :inbox_tray:
 
